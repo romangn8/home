@@ -9,5 +9,5 @@ Bitcoin is a decentralized digital currency that enables secure, pseudonymous, a
 * Allows users to maintain control over their financial activity
 
 If you want to learn more, you can find it on the following page 
-[content](https://github.com/romangn8/main/wiki/)
+[content](https://github.com/romangn8/bitcoin-content/wiki/)
 ## coding (later...)
