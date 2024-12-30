@@ -1,5 +1,5 @@
 # gn8.dev
-## bitcoin content 
+## bitcoin 
 Bitcoin is a decentralized digital currency that enables secure, pseudonymous, and censorship-resistant transactions, giving users control over their financial activity.
 
 **Key Features:**
@@ -10,4 +10,4 @@ Bitcoin is a decentralized digital currency that enables secure, pseudonymous, a
 
 If you want to learn more, you can find it on the following page 
 [content](https://github.com/romangn8/main/wiki/)
-## later more (coding...)
+## coding (later...)
