@@ -1,4 +1,4 @@
-<img src="picture/header.png" /> <br />
+<img src="picture/header.png" />
 # about
 Tech enthusiast by day, hobby coder by night. <br />
 [X / Twitter](https://x.com/gn8dev/) <br />
