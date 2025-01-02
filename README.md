@@ -10,4 +10,11 @@ If you want to learn more, you can find it in wiki
 [content](https://github.com/romangn8/bitcoin-content/wiki/)
 # donation
 If you like my work, feel free to support me <br />
-https://getalby.com/p/gn8dev
+
+Lightning:
+https://getalby.com/p/gn8dev <br />
+
+Paynym: <br />
+<img src="https://github.com/romangn8/home/blob/main/picture/paynym.png" width="200" title="titel" alt="alt" /> <br />
++quiethat6B3 <br />
+
