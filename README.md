@@ -1,4 +1,4 @@
-![created by romangn8](https://github.com/romangn8/home/blob/main/IMG_0104.jpeg)
+![created by romangn8](https://github.com/romangn8/home/blob/main/picture/IMG_0104.jpeg)
 # coding
 work in progress...
 # bitcoin 
