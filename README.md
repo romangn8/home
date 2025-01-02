@@ -1,4 +1,6 @@
 ![created by romangn8](https://github.com/romangn8/home/blob/main/picture/IMG_0104.jpeg)
+# about
+...
 # coding
 work in progress...
 # bitcoin 
