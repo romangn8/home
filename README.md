@@ -1,6 +1,7 @@
 ![created by romangn8](https://github.com/romangn8/home/blob/main/picture/IMG_0104.jpeg)
 # about
-...
+Tech enthusiast by day, hobby coder by night. <br />
+https://x.com/gn8dev
 # coding
 work in progress...
 # bitcoin 
