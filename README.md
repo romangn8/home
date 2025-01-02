@@ -14,6 +14,5 @@ If you like my work, feel free to support me <br />
 Lightning: [donate](https://getalby.com/p/gn8dev/) <br />
 
 Paynym: <br />
-<img src="https://github.com/romangn8/home/blob/main/picture/paynym.png" width="200" /> <br />
-+quiethat6B3 <br />
+<img src="https://github.com/romangn8/home/blob/main/picture/paynym.png" width="200" />
 
