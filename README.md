@@ -11,8 +11,7 @@ If you want to learn more, you can find it in wiki
 # donation
 If you like my work, feel free to support me <br />
 
-Lightning:
-https://getalby.com/p/gn8dev <br />
+Lightning: [donate](https://getalby.com/p/gn8dev/) <br />
 
 Paynym: <br />
 <img src="https://github.com/romangn8/home/blob/main/picture/paynym.png" width="200" title="titel" alt="alt" /> <br />
