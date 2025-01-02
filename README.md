@@ -1,4 +1,4 @@
-![created by romangn8](https://github.com/romangn8/home/blob/main/picture/IMG_0105.jpeg)
+![created by romangn8](https://github.com/romangn8/home/blob/main/picture/header.png)
 # about
 Tech enthusiast by day, hobby coder by night. <br />
 [X / Twitter](https://x.com/gn8dev/) <br />
