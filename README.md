@@ -6,7 +6,7 @@ Tech enthusiast by day, hobby coder by night. <br />
 # coding
 work in progress...
 # bitcoin 
-If you want to learn more, you can find it in wiki
+My fascination with Bitcoin: a summary of my self-study findings
 [content](https://github.com/romangn8/bitcoin-content/wiki/)
 # donation
 If you like my work, feel free to support me <br />
