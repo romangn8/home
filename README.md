@@ -14,5 +14,5 @@ If you like my work, feel free to support me <br />
 Lightning: [donate](https://getalby.com/p/gn8dev/) <br />
 
 Silent Payment: <br />
-<img src="picture/picture/IMG_0238.jpeg" width="200" /> <br />
+<img src="picture/picture/sp_bitcoin.png" width="200" /> <br />
 sp1qqw40rgry64vswlg2lc2dq497ym8zprwfnmk2mwwzuvtxtf6rddy4uq6y7w8pyu2snhgd9wpn3rhh5fx3ddxuf33pfu86wrmmwfuw5zucjy3ygt67
