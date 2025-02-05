@@ -8,11 +8,3 @@ My fascination with Bitcoin: a summary of my self-study findings
 [content](https://github.com/romangn8/bitcoin-content/wiki/)
 # coding
 work in progress...
-# donation
-If you like my work, feel free to support me <br />
-
-Lightning: [donate](https://getalby.com/p/gn8dev/) <br />
-
-Silent Payment: <br />
-<img src="picture/sp_bitcoin.png" width="200" /> <br />
-sp1qqw40rgry64vswlg2lc2dq497ym8zprwfnmk2mwwzuvtxtf6rddy4uq6y7w8pyu2snhgd9wpn3rhh5fx3ddxuf33pfu86wrmmwfuw5zucjy3ygt67
