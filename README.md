@@ -1,4 +1,4 @@
-<img src="picture/home_hintergrund.png" /> <br />
+<img src="picture/5DC162D2-7C77-41F2-8FCB-DF711818A2E1.png" /> <br />
 # about
 Tech enthusiast
 [Nostr](https://primal.net/p/npub1uxccf5wkt5nwl5knmgxx423awcncjsgaa5vgvgnm9up20trxy2ds200wp8) <br >
