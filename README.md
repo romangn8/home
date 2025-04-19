@@ -1,4 +1,4 @@
-<img src="picture/5DC162D2-7C77-41F2-8FCB-DF711818A2E1.png" /> <br />
+<img src="picture/3C0A1925-4F9D-491D-9FE5-9D0F339DE942.jpeg" /> <br />
 # about
 Tech enthusiast
 [Nostr](https://primal.net/p/npub1jp3776ujdul56rfkkrv8rxxgrslqr07rz83xpmz3ndl74lg7ngys320eg2) <br >
